@@ -7,5 +7,5 @@ An analysis of the different sectors, ETFs, among other different assets and mar
 By Juan Sebastián Cardona Sánchez Systems Engineer Universidad Icesi
 
 With the support of:
-Ph. D - Uram Anibal Sosa Aguirre - Computational Science
-Master's Degree - Luis Guillermo Herrera Cardona - Finances
+Ph. D - Uram Anibal Sosa Aguirre - Computational Science.
+Master's Degree - Luis Guillermo Herrera Cardona - Finances.
