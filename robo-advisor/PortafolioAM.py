@@ -96,10 +96,6 @@ class RoboAdvisorAM(QCAlgorithm):
         self.SetExecution(ImmediateExecutionModel())
 
         # Configuramos el riesgo maximo que estamos dispuestos a asumir
-        riskModel = CompositeRiskManagementModel(MaximumDrawdownPercentPortfolio(0.25))
-        riskModel.AddRiskManagement(MaximumUnrealizedProfitPercentPerSecurity(0.25))
-        
-        # Configuramos el riesgo maximo que estamos dispuestos a asumir
         self.SetRiskManagement(MaximumDrawdownPercentPortfolio(0.25))
         self.AddRiskManagement(MaximumUnrealizedProfitPercentPerSecurity(0.25))
 
