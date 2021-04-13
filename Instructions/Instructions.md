@@ -70,13 +70,15 @@ A window will be displayed and will show us a PDF with the information collected
 
 <img src="https://i.postimg.cc/rwjdLmBt/reporte3.png" width="1000">
 
-<img src="https://i.postimg.cc/x1nk7H42/reporte4.png" width="500">
+<img src="https://i.postimg.cc/MpRK5GDQ/daily.png" width="1000">
 
-<img src="https://i.postimg.cc/gk9LV1yr/reporte5.png" width="500">
+<img src="https://i.postimg.cc/28gSnW4Y/rolling.png" width="1000">
+
+<img src="https://i.postimg.cc/658Q7c4z/long.png" width="1000">
 
 Something interesting about this platform is that it gives us a look at how it would perform in different economic, political and other scenarios. In this case, as the system does not cover such a long period of time, it only shows us the performance it could have had in the last crisis, that of the COVID-19 pandemic that occurred in 2020 and that affects us today.
 
-<img src="https://i.postimg.cc/qB6CCp39/reporte6.png" width="500">
+<img src="https://i.postimg.cc/SQTsN3RJ/covid.png" width="1000">
 
 To run this algorithm in a real broker and test it in the market, click on the Go live option and select your broker.
 
