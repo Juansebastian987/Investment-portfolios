@@ -16,3 +16,5 @@ Docs: It has all the results by the robo-advisor in the different profiles and i
 Pdg: It has all the documentation of the current degree project. All the analysis done, all the scheme, structure and proposals made.
 
 Robo-Advisor: It contains all the code used for the current robo-advisor in the different investment profiles and horizons, plus 3 new algorithms developed by Quantconnect and proprietary modifications.
+
+Instruction: Here you will learn how to execute the different investment portfolios on the Quanconnect platform.
