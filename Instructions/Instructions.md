@@ -70,13 +70,13 @@ A window will be displayed and will show us a PDF with the information collected
 
 <img src="https://i.postimg.cc/rwjdLmBt/reporte3.png" width="1000">
 
-<img src="https://i.postimg.cc/x1nk7H42/reporte4.png" width="1000">
+<img src="https://i.postimg.cc/x1nk7H42/reporte4.png" width="500">
 
-<img src="https://i.postimg.cc/gk9LV1yr/reporte5.png" width="1000">
+<img src="https://i.postimg.cc/gk9LV1yr/reporte5.png" width="500">
 
 Something interesting about this platform is that it gives us a look at how it would perform in different economic, political and other scenarios. In this case, as the system does not cover such a long period of time, it only shows us the performance it could have had in the last crisis, that of the COVID-19 pandemic that occurred in 2020 and that affects us today.
 
-<img src="https://i.postimg.cc/qB6CCp39/reporte6.png" width="1000">
+<img src="https://i.postimg.cc/qB6CCp39/reporte6.png" width="500">
 
 To run this algorithm in a real broker and test it in the market, click on the Go live option and select your broker.
 
@@ -84,12 +84,14 @@ To run this algorithm in a real broker and test it in the market, click on the G
 
 For the current degree project, with the 9 portfolios that we have for all profiles and for all horizons, we would only have to pay 740 dollars or a little more than $2.700. 000 Colombian pesos, for a fully automated system for a complete investment fund, this is undoubtedly a completely new paradigm, as it would leave out all types of analysts, traders, economists or financiers and all this work would be done by a machine, in this case the nodes, as mentioned above each algorithm must be in a node that will have available technological resources, each node is independent and the failure or change that is being done to an algorithm does not affect in any way to the other algorithms.
 
-<img src="https://i.postimg.cc/rwXGpKZn/precio.png" width="1000">
+<img src="https://i.postimg.cc/rwXGpKZn/precio.png" width="250">
 
-<img src="https://i.postimg.cc/TwFLH4Z7/precios-caracteristicas.png" width="1000">
+<img src="https://i.postimg.cc/TwFLH4Z7/precios-caracteristicas.png" width="800">
 
 Finally comment that this system is completely accessible to all public, from the small retailer to large institutions, as mentioned above the 740 is for a complete fund with different profiles and horizons, for a particular profile with a single horizon this value does not reach 50 dollars, so a person with a capital of $ 5,000,000 can cover the monthly costs for the system and be consistent with its portfolio over time fully automated.
 
 In addition, you can have on the platform with the option to add people to the development team and try different tools, tests, techniques, among in a joint development, in addition, this system can be migrated to other brokerage platforms and be connected to different services through API.
 
 <img src="https://i.postimg.cc/LXngDp0g/organizacion.png" width="1000">
+
+I hope these instructions have been helpful. If you have any comments or suggestions you can send them to my Linkedin https://www.linkedin.com/in/juancardonasanchez/ 
