@@ -90,7 +90,7 @@ For the current degree project, with the 9 portfolios that we have for all profi
 
 <img src="https://i.postimg.cc/TwFLH4Z7/precios-caracteristicas.png" width="800">
 
-Finally comment that this system is completely accessible to all public, from the small retailer to large institutions, as mentioned above the 740 is for a complete fund with different profiles and horizons, for a particular profile with a single horizon this value does not reach 50 dollars, so a person with a capital of $ 5,000,000 can cover the monthly costs for the system and be consistent with its portfolio over time fully automated.
+Finally comment that this system is completely accessible to all public, from the small retailer to large institutions, as mentioned above the 740 is for a complete fund with different profiles and horizons, for a particular profile with a single horizon this value does not reach 50 dollars, so a person with a capital of $ 5,000,000 Colombian pesos can cover the monthly costs for the system and be consistent with its portfolio over time fully automated.
 
 In addition, you can have on the platform with the option to add people to the development team and try different tools, tests, techniques, among in a joint development, in addition, this system can be migrated to other brokerage platforms and be connected to different services through API.
 
